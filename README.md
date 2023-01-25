@@ -28,5 +28,6 @@ by clicking the green "code" button and copying the URL.
 
 ## Reference picture
 ---
-<img src="refpics/codequiz.png">
+<img src="./refpics/readmegen.png">
+<img src="./refpics/readmegen2.png">
 
