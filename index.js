@@ -17,7 +17,7 @@ const questions = [
   },
   {
     type: "input",
-    name: "title",
+    name: "title", 
     message: "What is your projects name?",
   },
   {
@@ -39,12 +39,7 @@ const questions = [
   },
   {
     type: "input",
-    name: "testcommand",
-    message: "What command should be run to run tests?",
-  },
-  {
-    type: "input",
-    name: "whattoknow",
+    name: "usage",
     message: "What does user need to know when using repo?",
   },
   {
